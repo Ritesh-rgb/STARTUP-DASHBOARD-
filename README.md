@@ -13,3 +13,8 @@ it is a highly effective data analysis project contains all the recent 4-5 years
 
 
 <img width="1751" height="829" alt="Image" src="https://github.com/user-attachments/assets/5b361cd8-1bcc-4cce-8d0c-4abba80e1347" />
+
+
+
+
+<img width="1702" height="683" alt="Image" src="https://github.com/user-attachments/assets/171fa4ce-2315-4eba-b0db-0a8515cdd373" />
