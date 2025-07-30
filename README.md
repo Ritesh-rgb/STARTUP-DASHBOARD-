@@ -5,3 +5,7 @@ it is a highly effective data analysis project contains all the recent 4-5 years
 
 
 <img width="1901" height="866" alt="Image" src="https://github.com/user-attachments/assets/528fda4b-9f56-4d92-a5ff-57f25f88f0cd" />
+
+
+
+<img width="1876" height="646" alt="Image" src="https://github.com/user-attachments/assets/34962d61-3fec-449f-9215-c2fd0cde120d" />
